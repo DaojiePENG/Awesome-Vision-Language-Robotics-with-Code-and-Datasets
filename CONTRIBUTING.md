@@ -169,7 +169,7 @@ When adding a new paper, please follow this exact format:
 For questions or discussions:
 
 - Open an issue in this repository
-- Contact maintainers: [Your email or contact info]
+- Contact maintainer: Daojie.PENG@qq.com
 
 ---
 
